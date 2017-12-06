@@ -1,5 +1,7 @@
 # Carverino
 
+![alt text](https://raw.githubusercontent.com/tsvilans/carverino/bunny.png)
+
 "Carve is a fast, robust constructive solid geometry library. (fork from https://code.google.com/p/carve/)"
 
 https://github.com/VTREEM/Carve
