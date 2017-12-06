@@ -16,21 +16,21 @@ The libs are provided as-is, with no guarantee of support for now, as I use them
 
 ---
 
-CarveLibWrapper.dll - The actual wrapper for the Carve library.
+**CarveLibWrapper.dll** - The actual wrapper for the Carve library.
 
-CarveSharp.dll - The dotNET assembly which exposes Carve, using only basic types.
+**CarveSharp.dll** - The dotNET assembly which exposes Carve, using only basic types.
 
-CarveRC.dll - CarveRhinoCommon, which provides basic conversion from Rhino types (Mesh) to Carve types.
+**CarveRC.dll** - CarveRhinoCommon, which provides basic conversion from Rhino types (Mesh) to Carve types.
 
-CarveGH.gha - Grasshopper assembly which adds the 'Carve' component to Mesh -> Util.
+**CarveGH.gha** - Grasshopper assembly which adds the 'Carve' component to Mesh -> Util.
 
-CarveRhino.rhp - Rhino plug-in which adds the 'Carve' command to Rhino.
+**CarveRhino.rhp** - Rhino plug-in which adds the 'Carve' command to Rhino.
 
 ---
 
 This is currently structured in this way to keep it modular and allow people to use any particular part of the wrapper, with or without RhinoCommon or GH, etc.
 
-This would not have been possible without the work of Mehran Maghoumi who created the original CarveSharp wrapper (https://github.com/Maghoumi). I have basically just removed dependencies to OpenTK and CodeFullToolkit, slightly re-organized the code, exposed some more functionality, and provided interfaces to Rhino and GH.
+This would not have been possible without the work of **Mehran Maghoumi** who created the original CarveSharp wrapper (https://github.com/Maghoumi). I have basically just removed dependencies to OpenTK and CodeFullToolkit, slightly re-organized the code, exposed some more functionality, and provided interfaces to Rhino and GH.
 
 # Contact
 
