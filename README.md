@@ -1,6 +1,6 @@
 # Carverino
 
-![alt text](https://raw.githubusercontent.com/tsvilans/carverino/bunny.png)
+![Bunny.](https://raw.githubusercontent.com/tsvilans/carverino/master/bunny.png)
 
 "Carve is a fast, robust constructive solid geometry library. (fork from https://code.google.com/p/carve/)"
 
