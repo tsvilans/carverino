@@ -1,7 +1,0 @@
-C:\git\projects\github\Carverino\CarveGH\obj\Release\CarveGH.Properties.Resources.resources
-C:\git\projects\github\Carverino\CarveGH\obj\Release\CarveGH.csproj.GenerateResource.Cache
-C:\git\projects\github\Carverino\CarveGH\obj\Release\CarveGH.csprojResolveAssemblyReference.cache
-C:\git\projects\github\Carverino\bin\CarveGH.dll
-C:\git\projects\github\Carverino\bin\CarveGH.pdb
-C:\git\projects\github\Carverino\CarveGH\obj\Release\CarveGH.dll
-C:\git\projects\github\Carverino\CarveGH\obj\Release\CarveGH.pdb

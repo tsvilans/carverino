@@ -1,6 +1,0 @@
-C:\git\projects\github\Carverino\bin\CarveSharp.dll.config
-C:\git\projects\github\Carverino\bin\CarveSharp.dll
-C:\git\projects\github\Carverino\bin\CarveSharp.pdb
-C:\git\projects\github\Carverino\CarveSharp\obj\x64\Release\CarveSharp.csprojResolveAssemblyReference.cache
-C:\git\projects\github\Carverino\CarveSharp\obj\x64\Release\CarveSharp.dll
-C:\git\projects\github\Carverino\CarveSharp\obj\x64\Release\CarveSharp.pdb

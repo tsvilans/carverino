@@ -1,5 +1,0 @@
-C:\git\projects\github\carverino\bin\CarveRhino.dll
-C:\git\projects\github\carverino\bin\CarveRhino.pdb
-C:\git\projects\github\carverino\CarveRhino\obj\Release\CarveRhino.csprojResolveAssemblyReference.cache
-C:\git\projects\github\carverino\CarveRhino\obj\Release\CarveRhino.dll
-C:\git\projects\github\carverino\CarveRhino\obj\Release\CarveRhino.pdb
